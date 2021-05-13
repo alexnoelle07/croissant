@@ -2,7 +2,8 @@ body {
   background-color: #f8c994;
   font-family: "century gothic";
 }
-h1 {
+h1,
+h3 {
   text-align: center;
 }
 h2,
